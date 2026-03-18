@@ -1,0 +1,1 @@
+SELECT city,population from north_american_cities where country='Canada';
