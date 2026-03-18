@@ -1,0 +1,1 @@
+SELECT city from north_american_cities where country='United States' order by latitude desc
